@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Business Analytics Web App – Internship at Blaze Web Technologies
+During my internship at Blaze Web Technologies, I developed a web application that automates financial insights extraction using Python. The system processes financial data, performs analytical computations, and generates meaningful visualizations to assist in decision-making. By integrating data processing and visualization techniques, the application provides an intuitive interface for analyzing key financial metrics. This project showcases the application of business analytics in streamlining financial data interpretation through automation.
