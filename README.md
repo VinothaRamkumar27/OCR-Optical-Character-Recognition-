@@ -144,4 +144,4 @@ A simple, user-friendly **React-based frontend** allows users to:
 
 6. Visualisation
 
-![img alt](https://github.com/VinothaRamkumar27/OCR-Optical-Character-Recognition-/blob/2824b6b7de10da5b042d5cf98155dc80f628fa89/Sample%20outputs/dashboard.jpg)
+![img alt](https://github.com/VinothaRamkumar27/OCR-Optical-Character-Recognition-/blob/3adefc56d57dff5266186ecbe242a19408e412c1/Sample%20outputs/graph.jpg)
